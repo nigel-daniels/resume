@@ -1,0 +1,205 @@
+{
+ "name": "Technical Skills",
+ "children": [
+  {
+   "name": "UX/UI",
+   "children": [
+    {
+     "name": "Web",
+     "children": [
+      {"name": "Bootstrap", "size": 9},
+      {"name": "HTML", "size": 9},
+      {"name": "CSS", "size": 9},
+      {"name": "React", "size": 7}
+     ]
+    },
+    {
+     "name": "Desktop",
+     "children": [
+      {"name": "Eclipse (Dev)", "size": 10},
+      {"name": "EMF", "size": 9},
+      {"name": "GMF", "size": 9},
+      {"name": "JET", "size": 9}
+     ]
+    },
+    {
+     "name": "Techniques",
+     "children": [
+      	{"name": "Use cases/user stories", "size": 8},
+		{"name": "User modelling", "size": 7},
+		{"name": "Ethnographics", "size": 3}
+     ]
+    },
+    {
+     "name": "Tools",
+     "children": [
+      	{"name": "Photoshop", "size": 7},
+		{"name": "Sketch", "size": 5},
+		{"name": "Origami", "size": 2}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Languages",
+   "children": [
+    {"name": "Java Script",
+     "children": [
+      {"name": "Backbone", "size": 9},
+      {"name": "React", "size": 9},
+      {"name": "Express", "size": 8},
+      {"name": "Node", "size": 8},
+      {"name": "Mongoose", "size": 7}
+     ]
+    },
+    {"name": "Java", 
+    "children": [
+      {"name": "Eclipse (use)", "size": 9},
+      {"name": "Jave SE", "size": 9},
+      {"name": "IBM WebSphere", "size": 8},
+      {"name": "J2EE", "size": 5}
+     ]
+     },
+    {
+     "name": "C",
+     "children": [
+      {"name": "Photon", "size": 6},
+      {"name": "ANSI C", "size": 5}
+     ]
+    },
+    {
+     "name": "VB",
+     "children": [
+      {"name": "Visual Studio", "size": 3},
+      {"name": "VBA", "size": 3}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Architectures",
+   "children": [
+    {
+     "name": "SOA",
+     "children": [
+      {"name": "WebSphere Developer", "size": 8},
+      {"name": "WebSphere ESB", "size": 8},
+      {"name": "WebSphere Event Manager", "size": 8},
+      {"name": "WebSphere Process Server", "size": 7}
+     ]
+    },
+    {
+     "name": "SaaS",
+     "children": [
+      {"name": "REST/API", "size" : 9},
+      {"name": "MVC", "size": 9},
+      {"name": "Service Design", "size": 8},
+      {"name": "Systems Architecture", "size": 8}
+     ]
+    },
+    {
+     "name": "Design",
+     "children": [
+      {"name": "UML", "size": 9},
+      {"name": "OO", "size": 8}
+     ]
+    },
+    {
+     "name": "MDD",
+     "children": [
+      {"name": "WebSphere Software Architect", "size": 6},
+      {"name": "WebSphere Business Modeller", "size": 5}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Technical Management",
+   "children": [
+    {
+     "name": "Agile",
+     "children": [
+      {"name": "Iterative", "size": 9},
+      {"name": "Scrum", "size": 9},
+      {"name": "Kanban", "size": 8},
+      {"name": "Planning Poker", "size": 8},
+	  {"name": "Velocity Tracking", "size": 6}
+     ]
+    },
+    {
+     "name": "Waterfall",
+     "children": [
+      {"name": "Gantt Chart", "size" : 8},
+      {"name": "PRINCE 2", "size": 8},
+      {"name": "CPA", "size": 7},
+      {"name": "Project Management", "size": 7}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Dev Ops",
+   "children": [
+    {
+     "name": "CD Tools",
+     "children": [
+      {"name": "Bower", "size": 8},
+      {"name": "GIT", "size": 8},
+      {"name": "Grunt", "size": 8},
+      {"name": "NPM", "size": 8},
+	  {"name": "Heroku Cloud", "size": 5}
+     ]
+    },
+    {
+     "name": "Containers",
+     "children": [
+      {"name": "Docker", "size" : 7},
+      {"name": "Docker-Compose", "size": 7}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "QA",
+   "children": [
+    {
+     "name": "Tools",
+     "children": [
+      {"name": "Chi", "size": 6},
+      {"name": "Mocha", "size": 6},
+      {"name": "Swagger", "size": 6},
+      {"name": "Emma", "size": 3}
+     ]
+    },
+    {
+     "name": "Techniques",
+     "children": [
+      {"name": "Functional Testing", "size" : 9},
+      {"name": "Unit Testing", "size": 8},
+      {"name": "System Testing", "size": 6}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Data",
+   "children": [
+    {
+     "name": "SQL",
+     "children": [
+      {"name": "DB2", "size": 8},
+      {"name": "IBM MDM", "size": 8},
+      {"name": "MS-SQL", "size": 7},
+      {"name": "Oracle", "size": 7}
+     ]
+    },
+    {
+     "name": "NoSQL",
+     "children": [
+      {"name": "MongoDB", "size" : 5}
+     ]
+    }
+   ]
+  }
+ ]
+}

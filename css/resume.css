@@ -1,0 +1,227 @@
+body {
+  width: auto;
+  padding-top: 100px;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, san-serif;;
+  background-color: #f8f8f8;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.row {
+  margin: 0;
+  padding: 20px;
+}
+
+/* Heading Styles */
+.heading-continer {
+  padding: 0px;
+  width: 100%;
+}
+
+/* Large Heading */
+.lg-heading {
+  border-bottom: solid #76B8B8 1px;
+  height: 100px;
+  width: 100%;
+}
+
+.lg-name {
+  background-color: #76B8B8;
+  height: 100px;
+  width: 300px;
+}
+
+.lg-photo {
+  min-height: 100px;
+  padding: 20px;
+}
+
+.lg-text {
+  padding-top: 20px;
+  min-height: 100px;
+}
+
+.lg-arrow {
+  padding: 0!important;
+  background-color: FFFFFF;
+}
+
+.lg-contact {
+  background-color: FFFFFF;
+}
+
+.table-contact {
+  margin: 2 20 20 20;
+}
+
+.table-contact tr {
+  height: 20px;
+}
+
+/* Small heading */
+.sm-heading {
+  height: 100px;
+  border-bottom: solid #76B8B8 1px;
+  width: 100%;
+}
+
+.sm-name {
+  height: 50px;
+  background-color: #76B8B8;
+  padding-left: 15px;
+}
+
+.sm-contact {
+  background-color: #FFFFFF;
+  padding-left: 15px;
+  line-height: 49px;
+}
+
+.sm-icon {
+  padding-left: 10px;
+}
+
+.sm-icon:first-of-type {
+  padding-left: 0;
+}
+
+/* Main body Styles */
+.main {
+  background-color: #FFFFFF;
+}
+
+/* Font Styles */
+.name {
+  font-size: 36;
+  font-weight: 200;
+  color: #FFCDA3;
+}
+
+.sub-heading {
+  font-size: 10;
+  font-weight: 200;
+  color: #FFCDA3;
+}
+
+.body {
+  font-size: 10;
+  font-weight: 400;
+  color: #4A4A4A;
+}
+
+a:link {
+  color: #4A4A4A;
+}
+
+a:visited {
+  color: #4A4A4A;
+}
+
+.title {
+  font-size: 18;
+  font-weight: 200;
+  color: #76B8B8;
+}
+
+.sub-title {
+  font-size: 10;
+  font-weight: 700;
+  color: #4A4A4A;
+  padding-top: 20px;
+}
+
+.date {
+  font-size: 8;
+  font-weight: 400;
+  font-style: italic;
+  color: #4A4A4A;
+  padding-bottom: 5px;
+}
+
+.icon {
+  opacity: 0.6;
+  padding-right: 10px;
+}
+
+.pie-chart-label {
+  font-size: 8;
+  font-weight: 100;
+  }
+
+.graph-note {
+  font-size: 8;
+  font-weight: 400;
+  color: #4A4A4A;
+  padding-top: 10px;
+}
+
+.section-content {
+  padding-left: 20px;
+}
+
+.summary {
+  padding: 20px 0 20px 0;
+}
+
+.infographic-content {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.competencies {
+  display: flex;
+  justify-content: center;
+}
+
+.competence-score {
+  padding-left: 20px;
+}
+
+.table-info {
+  margin-bottom: 20px;
+  background-color: #FFFFFF;
+}
+
+.info-title {
+  vertical-align: top;
+  width: 80px;
+}
+
+.table-online tr {
+  height: 20px;
+}
+
+.map-text {
+  font-size: 8;
+  font-weight: 400;
+  color: #4A4A4A;
+}
+
+/* Sidebar Styles */
+.graph {
+  padding-top: 20px;
+}
+
+.map {
+  padding-top: 20px;
+}
+
+path {
+  cursor: pointer;
+}
+
+.radial-center {
+  fill: none;
+  cursor: pointer;
+  pointer-events: all;
+}
+
+rect {
+  fill: #FFFFFF;
+}
+
+.map-point {
+  fill: #D38647;
+}

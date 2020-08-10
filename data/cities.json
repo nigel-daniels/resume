@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "cities": [
+        {
+            "type": "Feature",
+            "id": "01",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	-122.0976233,
+                	37.2966853
+                ]
+            },
+            "properties": {
+                "name": "San Jose, CA, USA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "02",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.0336193,
+                    30.3074624
+                ]
+            },
+            "properties": {
+                "name": "Austin, TX, USA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "04",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9734696,
+                    36.1001779
+                ]
+            },
+            "properties": {
+                "name": "Greensboro, NC, USA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "05",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	-79.6582644,
+                	43.717899
+                ]
+            },
+            "properties": {
+                "name": "Toronto, ON, Canada"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "06",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1972469,
+                    42.3132882
+                ]
+            },
+            "properties": {
+                "name": "Boston, MA, USA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "07",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5259003,
+                    53.3239919
+                ]
+            },
+            "properties": {
+                "name": "Dublin, Ireland"
+            }
+        }, 
+        {
+            "type": "Feature",
+            "id": "08",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	-0.3818164,
+                	51.5283079
+                ]
+            },
+            "properties": {
+                "name": "London, UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "09",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9531102,
+                    48.6793649
+                ]
+            },
+            "properties": {
+                "name": "Böblingen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.7736559,
+                    22.5549176
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                	115.8369227,
+                	39.9375342
+                ]
+            },
+            "properties": {
+                "name": "Beijing, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2261565,
+                    25.0169638
+                ]
+            },
+            "properties": {
+                "name": "Taipei, Taiwan"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.7093379,
+                    37.5647689
+                ]
+            },
+            "properties": {
+                "name": "Seoul, South Korea"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "07",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4301743,
+                    35.6730184
+                ]
+            },
+            "properties": {
+                "name": "Tokyo, Japan"
+            }
+        }
+    ]
+}
