@@ -1,0 +1,77 @@
+I am leader with multinational and remote management experience. Able to communicate to all levels of an organization and engender trust in all. Adept at handling complex unstructured situations and providing the necessary leadership. A strong focus on linking new technical innovations to markets and new products. I have recently become a permanent US resident.
+
+
+Experience
+SAIC Motors, Director, Developing Strategic Initiatives
+Sept. 2018 – Present 
+SAIC Motors Innovation Center (IC) explores autonomous driving, in-vehicle interactions, vehicle connectivity.  It also houses SAIC Venture Capital (VC).
+	• 	Introduced and documented emerging technologies and trends for IC/VC teams and developed reports for HQ and recommended potential responses.
+	• 	Developed, implemented and led the in house innovation process, then implemented team specific workflows with multiple ideas under development.
+	• 	Designed and implemented a deal flow process for the VC team.
+	• 	Built-up SAIC connections with external groups including academic, NFP and commercial organizations.
+	• 	Created in-house information sharing site to record external events and meetings.
+
+Axiomode Ltd., CTO, Co-founder
+Apr 2012 – Aug 2018 
+Axiomode helps organizations visualize and manage value and, supports strategic decision making.
+	•	Jointly architected the Axiomode methodology.
+	•	Designed and developed the full-stack Javascript SaaS product prototype.
+	•	Designed and developed the Eclipse based desktop product.
+
+Initiate Thinking , Owner
+Apr 2012 – Aug 2018  
+This consulting practice helps take innovative ideas to market with a focus on software technologies.
+	•	Worked with Irish RASP security company Waratek to take them from a research focused organization to ship their first product in mid 2012.
+	•	Worked with Waratek on product management and technical sales in the USA and NE Asia.
+	•	Designed the business architecture for a VC fund and accelerator Genesys Global Innovation Networks.
+	•	Created a full-stack prototype and automation environment for AsterionDB Inc.
+
+BBC, Senior Technologist 
+Mar 2011 – Jan 2013
+	• 	Built a business map for BBC Vision, to identify issues and recommend solutions.
+	• 	Delivered a proposal for improvements to commissioning/scheduling business unit.
+	• 	Recommended process improvements and implemented tooling for the consulting group.
+	• 	Created the blueprint and performed technology and process business analysis for a £450m programme to renew the headquarters of BBC Wales.
+	• 	Created end-of-life and product proposals for Audio & Music and the Archive teams.
+	• 	Designed the technology and process architecture for a joint BBC/British Library web archive project.
+
+Design London, Head of Innovation Technology
+Mar 2009 – Feb 2011 
+This was a group doing research, teaching and business incubation for Imperial College London and the Royal College of Art.
+	• 	Successfully led the integration, installation and commissioning of a $1m 3D CAVE system. 
+	• 	Developed the strategic architecture for innovation technology.
+	• 	Researched into leading product and service development techniques.
+	• 	Created visualizations for clients including Bentley, Honda, Exa Inc., Royal Society, NHS.
+	• 	Delivered workshops to SMBs on Web 2.0 and innovation technology.
+
+IBM UK (Hursley Laboratories), Technical Lead/Product Manager
+Feb 2003 – Mar 2009
+	• 	Integrated acquisition AptSoft (Boston, MA.) team into IBM systems, standards and culture, and successfully led their first release.
+	• 	Led multiple global teams of up to twenty people composed of engineers, designers and other services.
+	• 	Performed market analysis and developed product plans for new, current and end-of-life products.
+	• 	Identified and successfully validated the need for, then grew QA teams in several product groups.
+	• 	Architected and led the development of automation services in development and test.
+	• 	Designed and developed UI’s and tooling for developers and business analysts in leading WebSphere integration products.
+
+
+Education
+
+MBA, Henley Business College, Oxfordshire, UK
+Sept. 2005 – Jul. 2009
+Specialisms: 	Innovation Managment, Brand Managment
+Dissertation: 	Agile Innovation - Managing Iterative Innovation
+
+MSc, Brighton University, East Sussex, UK
+Sept. 2000 – Jul. 2003
+Specialisms: 	Object Oriented Software Engineering
+Dissertation: 	Self Organizing P2P Networks using Intelligent Agents
+
+
+Other Information
+
+Patents Filed
+20090299992	Methods and systems for identifying desired information
+20110225126	Method, apparatus and software for maintaining consistency between a data object and references to the object within a file
+
+Certification
+Business Analysis 2012. PRINCE 2 2010, Issue Based Consulting 2009, Situational Leadership 2005, Software Testing 2004.
